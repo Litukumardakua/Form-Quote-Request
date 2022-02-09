@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .head_section{
+    
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    font-family: sans-serif;
+  }
+  h1{
+     color: black;
+     position: absolute;
+      font-weight: bold;
+      font-size: 30px;
+  }
+  h6{
+    position: absolute;
+    top: 40px;
+    font-size: 15px;
+    color: black;
+    font-weight: 300;
+  }
+  h4{
+    position: absolute;
+    top: 90px;
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: serif;
+    text-align: center;
+    /* border: 2px solid black; */
+    background-color: rgb(17, 92, 253);
+    color: white;
+  }
+
+ 
